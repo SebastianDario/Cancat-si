@@ -1,0 +1,204 @@
+@font-face{
+    font-family: Diavlo;
+    src:url(../imagenes/Holyfat.ttf)
+}
+body{
+        background-image: url(../imagenes/fondo1.jpg);
+        background-size: 91rem;
+        background-position-x: left;
+        background-position-y: top;
+        background-repeat: no-repeat;
+    }
+.nav-link{
+    text-decoration: none !important;
+    color: #4cda00;
+    font-family: Diavlo !important;
+    font-size: 50px;
+    height: 80px !important;
+}
+.nav-link:hover{
+    color: #fff;
+    background-color: #4cda00;
+}
+.ul{
+    height: 80px !important;
+}
+
+#btn1{
+    border-radius: 50%;
+    background-color: #4CDA00;
+    text-align: center;
+    width: 14rem;
+    height: 7rem;
+    font-family: Diavlo;
+    color: #fff;
+    font-size: 55px;
+    margin-left: 12rem;
+}
+.titulo{
+    margin-left: 140px;
+    font-size: 50px;
+    color: #4CDA00;
+}
+.subtitulo{
+    margin-left: 140px;
+    color: #4CDA00;
+}
+.parrafo{
+    font-size: 20px;
+    color: rgb(0, 184, 184);
+    background: #4cdaaf00;
+    width: 450px;
+    height: 150px;
+    margin: auto;
+}
+.titulo1{
+    font-family: Diavlo;
+    padding-top: 100px;
+    margin-left: 140px;
+    font-size: 50px;
+    color: #ffffff;
+    margin-left: 300px;
+}
+    
+
+.parrafo1{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    width: 450px;
+    height: 150px;
+    margin: auto;
+}
+.titulo3{
+    color: #4CDA00;
+    font-family: Diavlo !important;
+}
+.nav-link1{
+    color: #ffffff;
+    background-color: #4CDA00;
+}
+.se{
+    background-color: #4CDA00 !important;
+    width: 350px;
+}
+.jo{
+    background-color: #4CDA00;
+    width: 660px;
+}
+.le{
+    width: 520px;
+    height: 150px;
+    margin: auto;
+}
+#carrusel{
+    margin: auto auto auto 230px;
+}
+#carrusel2{
+    width: 600px;
+}
+.subtitulo3{
+    color: #fff;
+    text-align: center;
+}
+.subti3{
+    background-color: #02c5dba1;
+    width: 520px;
+    margin: auto;
+    height: 40px;
+    border-color: #02c5dba1;
+}
+.parra{
+    background-color: #4CDA00b0;
+    width: 520px;
+    height: 150px;
+    margin: auto;
+    border-color: #4CDA00b0 !important;
+}
+
+.parrafo3{
+    width: 450px;
+    text-align: justify;
+    margin: auto;
+    color: #fff;
+    font-size: 20px;
+}
+
+.parrafo3:hover{
+    color: #02c6db;
+    cursor: pointer;
+}
+.ul{
+    background-color: #ffffffbd;
+    width: 520px;
+    margin: auto;
+    height: 40px !important;
+    border-color: #ffffffbd;
+}
+.teta{
+    color: #4CDA00;
+    text-align: center;
+}
+.lo{
+    width: 520px;
+    margin: auto;
+    background-color: #4cda00bd;
+    border-color: #4cda00bd !important;
+    height: 160px ;
+}
+.parrafo0{
+    width: 440px;
+    text-align: justify;
+    margin: auto;
+    color: #fff;
+}
+.nav-linkq{
+    color: #4CDA00;
+    border-radius: 100px;
+}
+.nav-linkq:hover{
+    background-color: #eff1ee;
+    color: #fff;
+    
+}
+#lz{
+    width: 240px !important;
+    margin: auto;
+    cursor: pointer;
+    transition: all 500ms ease-out;
+}
+.por{
+    color: #4CDA00;
+    text-align: center;
+}
+
+.yo{
+    height: 250px;
+    background-color: #ffffffce;
+}
+.ya{
+    padding-left: 600px;
+    padding-top: 50px;
+}
+.cl{
+    padding-left: 600px;
+}
+.fq{
+    width: 40px;
+    cursor: pointer;
+    padding-left: 6px;
+    margin-left: 630px;
+}
+.f{
+    width: 42px;
+    cursor: pointer;
+    padding-left: 6px;
+    
+}
+.xd{
+    width:400px;
+    height:200px;
+}
+.nav{
+    width: 526px;
+    margin-left: 130px;
+}
